@@ -1,0 +1,2 @@
+I realize that the role requires in-depth knowledge of Python, and while I haven't worked with it extensively, it shares similarities with Java and Javascript. I believe that while syntax may differ between programming languages, what's crucial for this position is a solid understanding of software development concepts ranging from database design to object-oriented programming and system architecture. So despite not having extensive experience with Python, I am confident in my ability to quickly learn and apply these fundamental principles.
+
